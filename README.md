@@ -13,4 +13,4 @@ Amazon became an early mover in e-commerce in part because it sold books—a cat
 PublicAssets (http://www.PublicAssets.com) is the company that will aggregate, standardize, enrich, and commercialize broad sets of public asset data. On top of this catalogue we will develop three lines of business: commercial data services for companies interested in contacting governments and historic/real-time data, marketplaces, and data licensing to third-parties.
 
 <b>Who We're Looking For</b><br>
-We're seeking a technology leader who wants to unlock tremendous value and make a huge impact on the world. This person will join at a very early stage and will develop and execute our technical roadmap along with a highly-functioning, world-class team. If this sounds like you, send a note to skip@publicassets.com.
+We're seeking a technology leader who wants to unlock tremendous value and make a huge impact on the world. This person will join at an early stage and will develop and execute our technical roadmap along with a highly-functioning, world-class team. If this sounds like you, please send a note to skip@publicassets.com. We look forward to hearing from you.
