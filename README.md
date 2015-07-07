@@ -1,6 +1,6 @@
 # hiring
 
-<b>The Opportunity</b>
+<b>The Opportunity</b><br>
 The world’s largest aggregation of asset classes—estimated at greater than $300T—remains fragmented, untouched by the Internet, and has most of the attributes of successful marketplaces: <b>public assets</b>. Public assets are what's owned by local, regional, and central governments around the world, including buildings, land, natural resources, infrastructure, utilities, and much more.
 <br>
 Despite the tremendous value of public assets, most governments don’t publish inventories of the assets they own and manage. With no central inventory of a single government’s assets—much less those held by the hundreds of thousands of governments around the globe—there are stunted, inefficient markets for and serving public assets. Companies interested in transacting with or providing services for governments have no simple way to identify the agencies and contacts with whom to conduct business around public assets. Additionally, researchers, citizens, and the media don’t have transparency into inventories, management, and investment decisions.
