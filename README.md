@@ -7,7 +7,7 @@ Despite the tremendous value of public assets, most governments don’t publish 
 <p>
 The opportunity to structure, develop, and grow the category of public assets is a large, technology-driven opportunity for financial and social value creation.
 <p>
-Amazon became an early mover in e-commerce in part because it sold books—a category that was structured with the ISBN catalogue system. Leveraging the ISBN catalogue, Amazon offered an uncluttered, trusted search and browse experience that drove certainty in the buying experience, higher conversion rates, and enabled other features, such as collaborative filtering and recommendations. Similarly, by creating a catalogue of the world’s public assets, stakeholder pain points, including access to data and the development and growth of efficient marketplaces will be addressed.
+Amazon became an early mover in e-commerce in part because it sold books—a category that was structured with the ISBN catalogue system. Similarly, by creating a catalogue of the world’s public assets, stakeholder pain points, including access to data and the development and growth of efficient marketplaces will be addressed.
 <p>
 <b>Who We Are</b><br>
 PublicAssets (http://www.PublicAssets.com) is the company that will aggregate, standardize, enrich, and commercialize broad sets of public asset data. On top of this catalogue we will develop three lines of business: commercial data services for companies interested in contacting governments and historic/real-time data, marketplaces, and data licensing to third-parties.
